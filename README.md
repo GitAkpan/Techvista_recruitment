@@ -1,4 +1,4 @@
-TechVista Solutions — Hiring Analytics Case Study
+TechVista Solutions (Hiring Analytics Case Study)
 
 Project Overview
 This project is a comprehensive HR analytics case study simulating a real-world hiring data investigation for TechVista Solutions, a Nigerian tech firm that spent ₦45,000,000 on recruitment in 2024. It was designed to sharpen advanced SQL skills through business-driven analysis across a fully relational 5-table database.
